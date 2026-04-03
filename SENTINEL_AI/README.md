@@ -64,8 +64,15 @@ python3 -m streamlit run app.py
 
 ## 📸 Screenshots
 
-*Add your project screenshots here*
+### 🔹 User Interface
+![UI](screenshots/ui.png)
 
+### 🔹 Detection Result
+![Result](screenshots/result1.png)
+![Result](screenshots/result2.png)
+### 🔹 Analysis Graph
+![Graph](screenshots/graph.png)
+![Chart](screenshots/chart.png)
 ---
 
 ## 📌 Future Improvements
